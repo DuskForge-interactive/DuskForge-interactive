@@ -7,7 +7,8 @@
 💻 **Backend developer** passionate about clean architecture, scalable APIs, and data-driven systems.  
 📍 Based in Colombia | 🌐 Building solutions that connect logic, structure, and purpose.
 
-<img src="https://i.imgur.com/6zQ7b5F.gif" alt="anime city night" width="100%">
+![GitHub Profile 3D](./profile-3d-contrib/profile-green-animate.svg)
+
 
 
 ---
