@@ -68,12 +68,13 @@ Every function, module, and entity should have a reason to exist.
 - 📧 Email: *[Jecg050505@gmail.com]*
 - 🌍 Portfolio (coming soon...)
 
+## 🌐 My 3D Contribution
+
+![Contribuciones 3D](./profile-3d-contrib/profile-green-animate.svg)
+
+
 ---
 
 > _“Technology means nothing if it doesn’t serve people. I build systems that do.”_
-
-<p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
 
 ---
