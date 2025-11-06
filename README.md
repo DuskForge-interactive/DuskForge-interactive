@@ -1,8 +1,14 @@
 # 👋 Hi there! I'm Juan Esteban Castillo Guardia
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=33FF99&size=22&center=true&vCenter=true&width=500&lines=Hi!+I'm+Juan+Esteban;Backend+Developer+👨‍💻;Anime+and+Tech+Lover;Building+projects+with+NestJS+%26+Postgres)](https://git.io/typing-svg)
+
+
 🎓 **Software Engineering student** at *Unisabaneta*  
 💻 **Backend developer** passionate about clean architecture, scalable APIs, and data-driven systems.  
 📍 Based in Colombia | 🌐 Building solutions that connect logic, structure, and purpose.
+
+<img src="https://i.imgur.com/6zQ7b5F.gif" alt="anime city night" width="100%">
+
 
 ---
 
