@@ -11,6 +11,15 @@
 I’m a software engineering student and backend developer focused on designing and building robust, modular, and well-tested APIs.  
 I’ve spent the last year working through multiple real-world projects at **Riwi**, a work-life simulation center, where I’ve practiced modern software engineering processes such as:
 
+---
+
+### 🛠️ Tecnologías
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,postgres,docker,git,vscode,linux&theme=light" />
+</p>
+
+---
+
 - 🔹 Gitflow branching and version control
 - 🔹 Agile development with sprints, user stories, and acceptance criteria
 - 🔹 CI/CD principles and test coverage tracking (≥40%)
@@ -63,3 +72,8 @@ Every function, module, and entity should have a reason to exist.
 
 > _“Technology means nothing if it doesn’t serve people. I build systems that do.”_
 
+<p align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
