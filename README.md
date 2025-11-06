@@ -14,6 +14,11 @@
 
 
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9FEAF9&size=22&center=true&vCenter=true&width=500&lines=Code+•+Coffee+•+Chill;Building+clean+APIs+at+night;Dreaming+in+TypeScript;Always+learning,+always+debugging.">
+</p>
+
+
 
 ---
 
