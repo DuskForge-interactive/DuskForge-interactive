@@ -7,7 +7,11 @@
 💻 **Backend developer** passionate about clean architecture, scalable APIs, and data-driven systems.  
 📍 Based in Colombia | 🌐 Building solutions that connect logic, structure, and purpose.
 
-![GitHub Profile 3D](./profile-3d-contrib/profile-green-animate.svg)
+<p align="center">
+  <img src="https://i.pinimg.com/originals/2a/02/ff/2a02ff38bbcb3e7ef2b4f25e1f11e6ab.gif" width="600px"><br>
+  <sub>Hecho con ☕, TypeScript y un toque de inspiración anime 🌙</sub>
+</p>
+
 
 
 
